@@ -1,0 +1,5 @@
+.DS_Store
+secrets.txt
+
+# Log files
+# *.txt -> ignores all types files.
